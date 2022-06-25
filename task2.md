@@ -67,10 +67,10 @@
 
 9. hasil dari 3 link
 
-   ![](C:\Users\annis\Pictures\Screenshots\Screenshot (612).png)
+   ![Screenshot (612)](https://user-images.githubusercontent.com/92453574/175778343-d3857532-e101-4b84-9f94-7bd748c25681.png)
 
-   ![](C:\Users\annis\Pictures\Screenshots\Screenshot (613).png)
+   [Screenshot (613)](https://user-images.githubusercontent.com/92453574/175778331-642ee1b0-4433-43b5-91df-e4e531237bd7.png)
 
-   ![](C:\Users\annis\Pictures\Screenshots\Screenshot (614).png)
+  ![Screenshot (614)](https://user-images.githubusercontent.com/92453574/175778333-7e635479-42ed-4cd5-a763-23dddf3778f1.png)
 
    
