@@ -74,6 +74,14 @@
   ![Screenshot (614)](https://user-images.githubusercontent.com/92453574/175778333-7e635479-42ed-4cd5-a763-23dddf3778f1.png)
   
   
-  # TASK 2
+  # TUGAS BESAR
+  Kumparan: [https://news.un.org/feed/subscribe/en/news/topic/health/feed/rss.xml](https://lapi.kumparan.com/v2.0/rss/)
+  
+  US: [https://news.un.org/feed/subscribe/en/news/region/asia-pacific/feed/rss.xml](https://abcnews.go.com/abcnews/usheadlines)
+  
+  Kesehatan: [https://news.un.org/feed/subscribe/en/news/region/europe/feed/rss.xml](https://www.healthcareitnews.com/home/feed)
+  
+  ![tubes](https://user-images.githubusercontent.com/92453574/178402665-49a49df6-64f1-4842-b001-e6fd81dca1cd.PNG)
+
 
    
